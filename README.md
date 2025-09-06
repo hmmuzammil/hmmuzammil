@@ -78,13 +78,13 @@ I’m passionate about:
 
 <p align="center">
   <a href="https://github.com/hmmuzammil">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuzammilSabir&theme=react&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hmmuzammil&theme=react&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/hmmuzammil">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuzammilSabir&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmmuzammil&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" alt="Top Languages"/>
   </a>
 </p>
 </details>
