@@ -4,7 +4,7 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=hmmuzammil&color=blue)
 
-<img src="https://cdn.pfps.gg/banners/5132-pixel-mario.gif" alt="Pixel Mario Banner" width="100%">
+<img src="https://64.media.tumblr.com/61d4fea89f86eb4cb5a7e616d9cd4832/tumblr_owi25v6uAo1r4gsiio1_1280.gif" alt="Cyber Tech Banner" width="100%">
 
 ---
 
@@ -51,7 +51,7 @@ I’m passionate about:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,sqlite,mysql,postgres,excel,tableau,powerbi,git,github,notion,vscode" />
+    <img src="https://skillicons.dev/icons?i=py,r,sqlite,mysql,postgres,,git,github,notion,vscode" />
   </a>
 </p>
 
@@ -60,9 +60,9 @@ I’m passionate about:
 ## 🌍 Socials  
 
 <p align="center">
-  <a href="https://github.com/MuzammilSabir"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/hmmuzammil"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/muhammad-muzammil-79b24332a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:muzammil@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:hmmuzammil@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
