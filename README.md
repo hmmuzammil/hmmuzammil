@@ -51,7 +51,7 @@ I’m passionate about:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,sqlite,mysql,postgres,,git,github,notion,vscode" />
+    <img src="https://skillicons.dev/icons?i=py,r,sqlite,mysql,postgres,git,github,notion,vscode" />
   </a>
 </p>
 
